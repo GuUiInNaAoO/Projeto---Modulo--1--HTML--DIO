@@ -1,5 +1,6 @@
 # Projeto---Modulo--1--HTML--DIO
-## Nesse projeto HTML, achei melhor ao invés de utilizar minhas palavras, peguei textos sobre alguns tópicos do curso e realizei a edição, pensando em ter uma quantidade considerável de textos para ser feito diversas alterações.
+## Nesse projeto HTML foi utilizado todas as tags informadas no curso.
+## <h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>,<font>, <del>, <p>, <abbr
 
 <!DOCTYPE html>
 <html lang="pt-br">
